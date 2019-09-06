@@ -1,3 +1,14 @@
+#chevron-left{
+      position:relative;
+      top:70px;
+      left:110px;
+      z-index:10;
+  }
+  #chevron-right{
+    position:relative;
+    top:70px;
+    left:-10px;
+    z-index:10;
 .carousel-showmanymoveone .carousel-control {
   width: 4%;
   background-image: none;
